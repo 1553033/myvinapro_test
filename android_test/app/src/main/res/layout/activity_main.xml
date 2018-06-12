@@ -12,6 +12,12 @@
         android:layout_height="wrap_content"
         android:text="next"
         />
-    
+
+    <TextView
+        android:textSize="34sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="ttttttttttttttttttttttt"/>
+
 
 </android.support.constraint.ConstraintLayout>
